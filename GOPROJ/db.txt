@@ -1,0 +1,7 @@
+Yash 27 99
+harsh 112 0
+meeth 10 100
+vishal 6 10
+datta 2 4
+smith 90 101
+yashu 87 87
